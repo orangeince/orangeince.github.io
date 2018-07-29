@@ -1,4 +1,8 @@
 title: OrangeInce
 description: OI's space
 theme: jekyll-theme-cayman
+
+# Pagination
+gems: [jekyll-paginate]
 paginate: 10
+paginate_path: "page/:num/"
